@@ -1,0 +1,21 @@
+h2{
+    margin: 10px;
+    text-align: center;
+}
+h5{
+    margin: 0.5rem 0rem;
+}
+
+.paragraphPrivacyPolicy{
+    text-align: left;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.contentPrivacyPolicy{
+    margin: 35px;
+}
+
+.smallMargin{
+    margin: 0.5rem 0rem;
+}

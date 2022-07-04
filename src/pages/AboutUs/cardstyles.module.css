@@ -1,0 +1,16 @@
+.card:hover{
+    color: whitesmoke;
+    background-color: black;
+    box-shadow: 0 0 5px grey, 0 0 10px grey,0 0 20px grey;
+}
+.card2:hover{
+   color: whitesmoke;
+   background-color: black;
+   box-shadow: 0 0 5px grey, 0 0 10px grey,0 0 20px grey;
+}
+@media(min-width:1000px){
+    .card2{
+       bottom:4rem;
+    }
+}
+ 
